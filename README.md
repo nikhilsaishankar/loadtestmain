@@ -1,0 +1,2 @@
+# Loadtest
+run load test
